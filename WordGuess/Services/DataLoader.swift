@@ -11,8 +11,7 @@ class DataLoader {
         guard let file = Bundle.main.url(forResource: filename, withExtension: nil)
         else {
             print("Warning: Could not find \(filename) in main bundle. Returning empty instance if possible or crashing.")
-            // Ideally we shouldn't crash in production, but for this assignment allowing a crash on missing critical data is often acceptable dev practice.
-            // However, let's try to be safer if we can, but the return type T enforces a value.
+           
             fatalError("Couldn't find \(filename) in main bundle.")
         }
 

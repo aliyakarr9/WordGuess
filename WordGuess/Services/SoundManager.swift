@@ -8,7 +8,6 @@ class SoundManager {
     private init() {}
 
     func playSound(named soundName: String) {
-        // Assuming sound files are mp3. Adjust extension if needed.
         guard let url = Bundle.main.url(forResource: soundName, withExtension: "mp3") else {
             print("Sound file \(soundName) not found.")
             return
