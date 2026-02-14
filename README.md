@@ -20,11 +20,11 @@
 
 | Paket Seçimi | Oyun Ayarları | Oyun Ekranı |
 |---|---|---|
-| <img src="Screenshots/paketekrani.jpeg" width="220"> | <img src="Screenshots/ayarekrani.jpg" width="220"> | <img src="Screenshots/oyunekrani.jpg" width="220"> |
+| <img src="Screenshots/paketekrani.jpeg" width="220"> | <img src="Screenshots/ayarekrani.jpeg" width="220"> | <img src="Screenshots/oyunekrani.jpeg" width="220"> |
 
 | Skor Tablosu | Şampiyon Ekranı |
 |---|---|
-| <img src="Screenshots/skorekrani.jpg" width="220"> | <img src="Screenshots/sampiyonekrani.jpg" width="220"> |
+| <img src="Screenshots/skorekrani.jpeg" width="220"> | <img src="Screenshots/sampiyonekrani.jpg" width="220"> |
 
 ## 🛠 Teknik Detaylar
 
@@ -37,11 +37,11 @@
 
 1.  Bu depoyu klonlayın:
     ```bash
-    git clone [https://github.com/kullaniciadin/WordGuess.git](https://github.com/kullaniciadin/WordGuess.git)
+    git clone [https://github.com/aliyakarr9/WordGuess.git](https://github.com/aliyakarr9/WordGuess.git)
     ```
 2.  `WordGuess.xcodeproj` dosyasını **Xcode** ile açın.
 3.  Simülatör veya gerçek bir iOS cihazı seçin.
 4.  `Cmd + R` tuşuna basarak projeyi çalıştırın.
 
 ---
-**Geliştiren:** [Ali Yakar](https://github.com/kullaniciadin) 
+**Geliştiren:** [Ali Yakar](https://github.com/aliyakarr9) - DAÜ Bilişim Sistemleri ve Teknolojileri Öğrencisi
