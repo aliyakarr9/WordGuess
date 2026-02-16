@@ -20,7 +20,7 @@
 
 | Paket Seçimi | Oyun Ayarları | Oyun Ekranı |
 |---|---|---|
-| <img src="Screenshots/paketekrani.jpeg" width="220"> | <img src="Screenshots/ayarekrani.jpeg" width="220"> | <img src="Screenshots/oyunekrani.jpeg" width="220"> |
+| <img src="Screenshots/paketekran" width="220"> | <img src="Screenshots/ayarekrani.jpeg" width="220"> | <img src="Screenshots/oyunekrani.jpeg" width="220"> |
 
 | Skor Tablosu | Şampiyon Ekranı |
 |---|---|
