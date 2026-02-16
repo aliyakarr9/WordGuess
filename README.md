@@ -24,7 +24,7 @@
 
 | Skor Tablosu | Şampiyon Ekranı |
 |---|---|
-| <img src="Screenshots/skorekrani.jpeg" width="220"> | <img src="Screenshots/sampiyonekran" width="220"> |
+| <img src="Screenshots/skorekrani.jpeg" width="220"> | <img src="Screenshots/sampiyonekrani.jpeg" width="220"> |
 
 ## 🛠 Teknik Detaylar
 
