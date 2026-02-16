@@ -27,11 +27,15 @@ struct CategorySelectionView: View {
         CategoryItem(title: "Ramazan", icon: "moon.stars.fill", color: .indigo, desc: "İftar, sahur ve manevi değerler.", status: .event, jsonFileName: "ramadan_pack"),
 
         CategoryItem(title: "Klasik", icon: "star.fill", color: .purple, desc: "Genel kültür, karışık eğlence.", status: .active, jsonFileName: "words"),
+        
         CategoryItem(title: "Sinema", icon: "popcorn.fill", color: .red, desc: "Kült filmler ve dünya sineması.", status: .active, jsonFileName: "sinema"),
+        
+        CategoryItem(title: "Yeşilçam", icon: "film.fill", color: .orange, desc: "Eski Türk filmleri nostaljisi.", status: .premium, jsonFileName: "yesilcam"),
+        
         CategoryItem(title: "Tarih", icon: "scroll.fill", color: .brown, desc: "Zaferler ve tarihi olaylar.", status: .active, jsonFileName: "tarih"),
         CategoryItem(title: "İngilizce", icon: "book.fill", color: .teal, desc: "Yasaklı kelimelerle dil pratiği.", status: .active, jsonFileName: "english_pack"),
         
-        CategoryItem(title: "Yeşilçam", icon: "film.fill", color: .orange, desc: "Eski Türk filmleri nostaljisi.", status: .premium, jsonFileName: "yesilcam"),
+
         
         CategoryItem(title: "Bilim Kurgu", icon: "airplane", color: .blue, desc: "Uzay, gelecek ve teknoloji.", status: .comingSoon, jsonFileName: "bilimkurgu"),
         CategoryItem(title: "Spor", icon: "figure.soccer", color: .green, desc: "Futbol, basketbol ve efsaneler.", status: .comingSoon, jsonFileName: "spor"),
